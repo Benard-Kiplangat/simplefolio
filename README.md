@@ -1,9 +1,9 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
+# Simpleportfolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/Benard-Kiplangat/simpleportfolio/blob/master/examples/example.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
@@ -17,7 +17,6 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
 
 ---
 
@@ -51,14 +50,14 @@ yarn@v1.22.10 or higher
 
 ## How To Use 🔧
 
-From your command line, first clone Simplefolio:
+From your command line, first clone Simpleportfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/Benard-Kiplangat/simpleportfolio
 
 # Move into the repository
-$ cd simplefolio
+$ cd simpleportfolio
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -97,7 +96,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
+  <img src="https://https://github.com/Benard-Kiplangat/simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
 </h2>
 
 ---
@@ -326,11 +325,6 @@ Once you finish your setup. You need to put your website online!
 
 I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
 
-## Others versions 👥
-
-[Gatsby Simplefolio](https://github.com/cobidev/gatsby-simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
-
 ## Technologies used 🛠️
 
 - [Parcel](https://parceljs.org/) - Bundler
@@ -339,13 +333,11 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 - [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 
-## Authors
-
+## Originally Authored by
 - **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
 
-## Status
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
+## Modified by
+- **Benard Kiplangat**
 
 ## License 📄
 
